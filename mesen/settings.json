@@ -9765,6 +9765,14 @@
     "Items": [
       {
         "RomFile": {
+          "Path": "C:\\Neumont\\Q12\\PRO385\\Dev\\Retro\\nes-dev\\projects/build/game.nes",
+          "InnerFile": "",
+          "InnerFileIndex": 0
+        },
+        "PatchFile": null
+      },
+      {
+        "RomFile": {
           "Path": "C:\\Neumont\\Q12\\PRO385\\Dev\\Retro\\nes-dev\\projects/build/controller.nes",
           "InnerFile": "",
           "InnerFileIndex": 0
