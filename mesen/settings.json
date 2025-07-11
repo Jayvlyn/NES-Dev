@@ -8663,14 +8663,14 @@
         "ColorCode": 4292394968
       },
       "HighlightBreakpoints": false,
-      "MemoryType": "SnesMemory",
+      "MemoryType": "NesMemory",
       "WindowSize": {
-        "Width": 0,
-        "Height": 0
+        "Width": 760,
+        "Height": 550
       },
       "WindowLocation": {
-        "X": 0,
-        "Y": 0
+        "X": 1058,
+        "Y": 401
       },
       "WindowIsMaximized": false
     },
@@ -9871,8 +9871,8 @@
       "Height": 505
     },
     "WindowLocation": {
-      "X": 1003,
-      "Y": 369
+      "X": 220,
+      "Y": 349
     },
     "WindowIsMaximized": false
   },
