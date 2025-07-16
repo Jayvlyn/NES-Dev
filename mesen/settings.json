@@ -1460,10 +1460,10 @@
         "Y": 0,
         "L": 0,
         "R": 0,
-        "Up": 0,
-        "Down": 0,
-        "Left": 0,
-        "Right": 0,
+        "Up": 52,
+        "Down": 54,
+        "Left": 53,
+        "Right": 55,
         "Start": 0,
         "Select": 0,
         "U": 0,
@@ -1599,7 +1599,7 @@
         "GenericKey1": 0
       },
       "TurboSpeed": 0,
-      "Type": "None"
+      "Type": "NesController"
     },
     "ExpPort": {
       "Mapping1": {
@@ -9763,6 +9763,14 @@
   },
   "RecentFiles": {
     "Items": [
+      {
+        "RomFile": {
+          "Path": "C:\\Neumont\\Q12\\PRO385\\Dev\\Retro\\nes-dev\\projects/build/pong.nes",
+          "InnerFile": "",
+          "InnerFileIndex": 0
+        },
+        "PatchFile": null
+      },
       {
         "RomFile": {
           "Path": "C:\\Neumont\\Q12\\PRO385\\Dev\\Retro\\nes-dev\\projects/build/game.nes",
